@@ -1,6 +1,6 @@
 ### Hi 👋
 
-:white_check_mark:Stack
+:white_check_mark: Stack
 
 [![heeeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeeo)](https://github.com/heeeo/github-readme-stats)
 

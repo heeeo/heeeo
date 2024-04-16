@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
+[![heeeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeeo)](https://github.com/heeeo/github-readme-stats)
 
 <!--
 **heeeo/heeeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

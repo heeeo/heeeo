@@ -4,6 +4,7 @@
 
 ![heeeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeeo)
 
+:white_check_mark: Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gmlcks8989)](https://solved.ac/gmlcks8989)
 <!--
 **heeeo/heeeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

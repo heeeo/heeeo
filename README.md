@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </div>
 
-![heeeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeeo&hide=contribs,prs&show_icons=true&theme=graywhite)
+![heeeo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heeeo&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 :white_check_mark: Solved.ac
 
